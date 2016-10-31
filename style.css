@@ -47,10 +47,11 @@ body {
 	width: 50%;
 	max-width: 800pt;
 	margin-top: 50pt;
+	margin-bottom: 20pt;
 	margin-left: auto;
 	margin-right: auto;
 	font-size: 12pt;
-	text-align: left;
+	text-align: justify;
 	background-color: #ffffff;
 	padding: 8pt 12pt;
 }
@@ -58,4 +59,36 @@ body {
 #subhead {
 	font-size: 11pt;
 	font-weight: normal;
+}
+
+#centred {
+ 	text-align: center;
+ 	font-size: 10pt;
+}
+
+#centred img {
+	max-width: 90%;
+}
+
+table {
+	width: 92%;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+td, th {
+	border: 1px solid #0C0C0C;
+	height: 30pt;
+	text-align: center;
+}
+
+th {
+	background: #F3F3F3;
+	font-weight: bold;
+}
+
+td {
+	background: #FAFAFA;
 }
