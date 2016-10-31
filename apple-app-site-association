@@ -5,7 +5,7 @@
       {
         "appID": "JPS45PPV79.com.netcosports.dev.euro2016.official",
         "paths": [
-          "*"
+          "european-qualifiers/*"
         ]
       }
     ]
