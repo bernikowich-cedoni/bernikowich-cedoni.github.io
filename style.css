@@ -68,6 +68,7 @@ body {
 
 #centred img {
 	max-width: 90%;
+	max-height: 50vh;
 }
 
 table {
@@ -91,4 +92,8 @@ th {
 
 td {
 	background: #FAFAFA;
+}
+
+p, h1, h2, h3, h3, h5, h6 {
+    text-indent: 32px;
 }
